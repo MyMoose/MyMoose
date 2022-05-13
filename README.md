@@ -1,5 +1,5 @@
 <div>
-Welcome! I'm Changwoo Lee | <img align="center" height="18px" src="https://wakatime.com/badge/user/4a28c15b-441d-4d09-b33d-03b5490ef7bf.svg"/>
+Welcome! I'm Changwoo Lee | <img align="center" height="18px" src="https://wakatime.com/badge/user/45478db3-7cf0-4618-8ed3-dca3c1883497.svg"/>
 </div>
 <br/>
 
