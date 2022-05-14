@@ -30,6 +30,6 @@ Welcome! I'm Changwoo Lee | <img align="center" height="18px" src="https://wakat
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with learning C#
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
-- 📫 How to reach me: https://www.linkedin.com/in/changwoolee/
+- 📫 How to reach me: https://www.linkedin.com/in/leechangwoo/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love learning and working on projects
