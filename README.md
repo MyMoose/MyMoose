@@ -26,7 +26,7 @@ Welcome! I'm Changwoo Lee | <img align="center" height="18px" src="https://wakat
 <hr/>
 
 - 🔭 I’m currently working on Trainsquare
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with learning C#
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
